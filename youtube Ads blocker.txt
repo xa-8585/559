@@ -1,0 +1,7 @@
+||music.youtube.com^$csp=worker-src 'none'
+||www.youtube.com^$csp=worker-src 'none'
+youtube.com#$#json-prune '2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds'
+youtube.com#$#json-prune '2.playerResponse.adPlacements'
+youtube.com#$#json-prune 'playerResponse.adPlacements'
+youtube.com#$#json-prune 'playerResponse.playerAds'
+youtube.com#$#override-property-read ytInitialPlayerResponse.adPlacements null
