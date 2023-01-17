@@ -1,1 +1,2 @@
-
+trojan://3c266fd3-5f9f-4132-90ac-c33a2a316cb5@more.letitbe.ink:443?security=tls&sni=more.letitbe.ink&type=tcp&headerType=none#Relay_-%F0%9F%87%AF%F0%9F%87%B5JP_192
+trojan://EGi7EzLOD3@freedom.wlfhope.website:2083?security=tls&sni=freedom.wlfhope.website&type=tcp&headerType=none#Relay_%F0%9F%87%AA%F0%9F%87%B8ES-%F0%9F%87%AA%F0%9F%87%B8ES_361
